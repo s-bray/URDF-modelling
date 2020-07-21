@@ -1,0 +1,14 @@
+material wallCrack3/Diffuse
+{
+    receive_shadows off
+    technique
+        {
+            pass
+                {
+                    texture_unit
+                        {
+                            texture crack2.jpg
+                        }
+                }
+        }
+}
