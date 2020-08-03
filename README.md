@@ -17,3 +17,4 @@ Step 7 : Insert all wall.material folders in the scripts folder
 
 Step 8 : Run Gazebo and insert the models
 
+Step 9 : Replace your existing building.world with the one present in this repository and launch it !
